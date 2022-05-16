@@ -8,23 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I am a Ph.D. candidate in Astronomy at [Laboratoire d’Astrophysique de Marseille](https://www.lam.fr/?lang=en) (LAM) under the supervision of Elodie Choquet and Arthur Vigan.
+My Ph.D. thesis is about developing advanced post-processing methods for ground-based high contrast imagers to better detect and characterize exoplanets and their environments.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+My research focuses on:
+* Direct imaging of exoplanets and circumstellar disks
+* Post-processing methods for high-contrast imaging and spectroscopy data
+* Planet-disk interaction 
+* Using integral-field spectroscopy for the detection and characterization of proto-planets and their formation
+
+Before my Ph.D. research, I also had experience in [radio astronomy](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A...3X/abstract) and [galaxy research](https://ui.adsabs.harvard.edu/abs/2016ApJ...824L..17X/abstract).  
+I earned my M.Sc in Astronomy from [Leiden University](https://www.universiteitleiden.nl/en/science/astronomy) in 2020 and my B.S. in Physics from [Xiamen University](https://en.xmu.edu.cn) in 2016. 
+
+[ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-6318-0104&sort=date%20desc%2C%20bibcode%20desc) to my publications.
+
+> Last updated around May 2022.

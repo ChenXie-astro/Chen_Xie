@@ -1,40 +1,101 @@
 ---
 layout: archive
-title: "Research"
+title: "My research activities"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
+# header:
+  # og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+Follow the links below to jump to the latest results.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+* [Planet-disk interaction](#planet-disk-interaction)
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
 
-<nbsp>
+* [Performance of reference-star differential imaging on SPHERE](#performance-of-reference-star-differential-imaging-on-sphere)
 
-{% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+* [Studying stellar jet in HD 163296 with MUSE](#studying-stellar-jet-in-hd-163296-with-muse)
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+
+* [Searching for proto-planets with MUSE](#searching-for-proto-planets-with-muse)
+
+
+* [Discovery of two new radio halos](#discovery-of-two-new-radio-halos)
+
+
+* [First confirmation of the AGN activity among GRB host galaxies](#first-confirmation-of-the-agn-activity-among-grb-host-galaxies)
+
+
+<!-- * [Custom foo description](#foo) -->
+
+
+
+<!-- <span style="color:gary">some *blue* text</span>. -->
+
+
+
+
+
+
+
+<span style="color:gray"><font size="6">Graduate Research (2020-present)</font></span>
+
+
+# Planet-disk interaction 
+
+(Ongoing project)
+Investigating the companion-disk interaction via measuring the dynamical motion of spiral arms in the disk.
+
+
+# Performance of reference-star differential imaging on SPHERE
+(under review) To be completed soon.
+
+
+# Studying stellar jet in HD 163296 with MUSE 
+
+(Xie, C. et al. 2021; [A&A](https://www.aanda.org/articles/aa/pdf/2021/06/aa40602-21.pdf), [arXiv](https://arxiv.org/pdf/2106.01661.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2021A%26A...650L...6X/abstract))
+
+![stellar_jet](/Chen_Xie/mages/research/SN_v_map_jet_paper.png)
+
+
+
+ <!-- <font size="6">Marster Research (2018-2020)</font> -->
+<span style="color:gray"><font size="6">Marster Research (2018-2020)</font></span>
+
+# Searching for proto-planets with MUSE
+(Xie, C. et al. 2020; [A&A](https://www.aanda.org/articles/aa/pdf/2020/12/aa38242-20.pdf), [arXiv](https://arxiv.org/pdf/2011.08043.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.149X/abstract))
+
+
+
+
+
+# Discovery of two new radio halos
+
+we reported
+ in the frontier fields clusters Abell S1063 and Abell 370
+(Xie, C. et al. 2020; [A&A](https://www.aanda.org/articles/aa/pdf/2020/04/aa36953-19.pdf), [arXiv](https://arxiv.org/pdf/2001.04725.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A...3X/abstract))
+
+
+
+
+
+
+ <!-- <font size="6">Undergraduate Research</font> -->
+<span style="color:gray"><font size="6">Undergraduate Research</font></span>
+
+# First confirmation of the AGN activity among GRB host galaxies 
+<!-- ([A&A](), ADS, arXiv) -->
+
+Xie, C. et al. 2016; [ApJL](https://iopscience.iop.org/article/10.3847/2041-8205/824/2/L17/pdf), [arXiv](https://arxiv.org/pdf/1606.00140.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...824L..17X/abstract) 
+
+![GRB_hosts](/Chen_Xie/images/research/GRB_hosts.png)
+ 
+
+<!-- # Foo -->
+
+
+
+
+
+> Last updated around May 2022.

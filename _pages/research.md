@@ -73,7 +73,6 @@ One of the science highlights is that we constrain the jet launching region to b
 
 
 
-
 ![muse_paper](/Chen_Xie/images/research/muse_paper.png)
 
 

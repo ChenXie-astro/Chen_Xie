@@ -1,1 +1,5 @@
-Chen XIE's personal website, forked from jayrobwilliams/jayrobwilliams.github.io
+Thie repo supports the my personal website: chenxie-astro.github.io/chen_xie/
+It was forked from jayrobwilliams/jayrobwilliams.github.io.
+
+
+

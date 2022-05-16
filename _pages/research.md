@@ -56,7 +56,7 @@ Investigating the companion-disk interaction via measuring the dynamical motion 
 
 (Xie, C. et al. 2021; [A&A](https://www.aanda.org/articles/aa/pdf/2021/06/aa40602-21.pdf), [arXiv](https://arxiv.org/pdf/2106.01661.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2021A%26A...650L...6X/abstract))
 
-![stellar_jet](/Chen_Xie/mages/research/SN_v_map_jet_paper.png)
+![stellar_jet](/Chen_Xie/images/research/SN_v_map_jet_paper.png)
 
 
 

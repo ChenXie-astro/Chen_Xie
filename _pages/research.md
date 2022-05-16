@@ -71,7 +71,9 @@ One of the science highlights is that we constrain the jet launching region to b
 # Searching for proto-planets with MUSE
 (Xie, C. et al. 2020; [A&A](https://www.aanda.org/articles/aa/pdf/2020/12/aa38242-20.pdf), [arXiv](https://arxiv.org/pdf/2011.08043.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.149X/abstract))
 
+I conducted a small search for proto-planets around 5 stars with VLT/MUSE. Unfortunately, we didn't find any new planet except for PDS 70 b and c. MUSE has some instrumental issues that limit the contrast that appear in cases with strong point sources. I modified the HRSDI technique to better handle the instrumental artifacts and improve the contrast. 
 
+The HRSDI technique when applied to MUSE data allows us to reach the photon noise limit at small separations (i.e., <0.5"; see the left plane below). With the combination of high-contrast imaging and medium spectral resolution, MUSE can achieve fainter detection limits in apparent line flux than SPHERE/ZIMPOL by a factor of  5 (see, the right plane below).
 
 ![muse_paper](/Chen_Xie/images/research/muse_paper.png)
 

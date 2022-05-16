@@ -7,7 +7,7 @@ main:
   #   url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /Chen_Xie/
 
   - title: "Media"
     url: /media/
@@ -22,7 +22,7 @@ main:
   #   url: /year-archive/
 
   - title: "Astrophotography"
-    url: /astrophotography
+    url: /astrophotography/
 
 
   - title: "Guide"

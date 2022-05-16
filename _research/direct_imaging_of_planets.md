@@ -1,11 +1,11 @@
 ---
 title: "Direct imaging of Planets"
 # layout: single-portfolio
-excerpt: "<img src='/Chen_Xie/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif'>"
+excerpt: "<img src='/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif'>"
 collection: astrophotography
 order_number: 2
 header: 
-  og_image: "/Chen_Xie/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif"
+  og_image: "/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif"
 ---
 
 <br>
@@ -20,30 +20,30 @@ The following images were captured with an old Philips webcam using an amateur t
 
 This gif consists of 4 images.
 
-![Jupiter](/Chen_Xie/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif)
+![Jupiter](/images/astrophotography/lucky_imaging/self_rotation_jupiter.gif)
 <br>
 
 # Saturn
 It was taken in 2014 March.
 
-![Saturn](/Chen_Xie/images/astrophotography/lucky_imaging/Saturn2.png)
+![Saturn](/images/astrophotography/lucky_imaging/Saturn2.png)
 <br>
 
 
 # Mars!
-![Mars](/Chen_Xie/images/astrophotography/lucky_imaging/Mars.png)
+![Mars](/images/astrophotography/lucky_imaging/Mars.png)
 <br>
 
 
 ## Other images I took with lucky imaging 
 # Moon
-![Moon](/Chen_Xie/images/astrophotography/lucky_imaging/Moon.jpeg)
+![Moon](/images/astrophotography/lucky_imaging/Moon.jpeg)
 <br>
 
 # M13 
 It was taken in 2014 Dec. with inverted color.
 
-![M13](/Chen_Xie/images/astrophotography/lucky_imaging/M13_croped.png)
+![M13](/images/astrophotography/lucky_imaging/M13_croped.png)
 <br>
 
 

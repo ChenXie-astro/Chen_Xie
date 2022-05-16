@@ -61,7 +61,7 @@ I led the study of the stellar jet in HD 163296 with VLT/MUSE. It was the first 
 
 One of the science highlights is that we constrain the jet launching region to be less than 1 au in radius, thanks to the high spatial resolution of MUSE.
 
-![stellar_jet](/Chen_Xie/images/research/SN_v_map_jet_paper.png)
+![stellar_jet](/images/research/SN_v_map_jet_paper.png)
 
 
 
@@ -75,7 +75,7 @@ I conducted a small search for proto-planets around 5 stars with VLT/MUSE. Unfor
 
 The HRSDI technique when applied to MUSE data allows us to reach the photon noise limit at small separations (i.e., <0.5"; see the left plane below). With the combination of high-contrast imaging and medium spectral resolution, MUSE can achieve fainter detection limits in apparent line flux than SPHERE/ZIMPOL by a factor of  5 (see, the right plane below).
 
-![muse_paper](/Chen_Xie/images/research/muse_paper.png)
+![muse_paper](/images/research/muse_paper.png)
 
 
 
@@ -86,7 +86,7 @@ We reported the discovery of two new radio halos in the frontier fields clusters
 
 To further confirm the spectral steepening, I led the follow-up observations (~16 hours) with VLA and GMRT to increase the wavelength coverage from 0.15 to 6 GHz.
 
-![radio_halo](/Chen_Xie/images/research/radio_halo_paper.png)
+![radio_halo](/images/research/radio_halo_paper.png)
 
 
 
@@ -97,7 +97,7 @@ To further confirm the spectral steepening, I led the follow-up observations (~1
 # First confirmation of the AGN activity among GRB host galaxies 
 (Xie, C. et al. 2016; [ApJL](https://iopscience.iop.org/article/10.3847/2041-8205/824/2/L17/pdf), [arXiv](https://arxiv.org/pdf/1606.00140.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...824L..17X/abstract))
 
-![GRB_hosts](/Chen_Xie/images/research/GRB_hosts.png)
+![GRB_hosts](/images/research/GRB_hosts.png)
  
 
 <!-- # Foo -->

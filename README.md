@@ -1,4 +1,4 @@
-Thie repo supports my personal website: chenxie-astro.github.io/chen_xie/
+Thie repo supports my personal website: https://chenxie-astro.github.io/Chen_Xie/
 
 
 It was forked from jayrobwilliams/jayrobwilliams.github.io.

@@ -38,7 +38,7 @@ Follow the links below to jump to the latest results.
 <span style="color:gray"><font size="6">PhD Research (2020-present)</font></span>
 
 Highlights from my PhD projects:
-* I thoroughly studied the performance of reference-star differential imaging (RDI) on SPHERE. On average, RDI can outperform angular differential imaging (ADI) in detecting point sources at short angular separations (<0.4"), with an average gain of 0.8 mag at 0.15".
+* I thoroughly studied the performance of reference-star differential imaging (RDI) on VLT/SPHERE. On average, RDI can outperform angular differential imaging (ADI) in detecting point sources at short angular separations (<0.4"), with an average gain of ~0.8 mag at 0.15".
 
 * The RDI reference library I built can be easily implemented into legacy or future SPHERE observations without additional costs, achieving similar or better performance than that of ADI.
 
@@ -73,7 +73,7 @@ One of the science highlights is that we constrain the jet launching region to b
 
 I conducted a small search for proto-planets around 5 stars with VLT/MUSE. Unfortunately, we didn't find any new planet except for PDS 70 b and c. MUSE has some instrumental issues that limit the contrast that appear in cases with strong point sources. I modified the HRSDI technique to better handle the instrumental artifacts and improve the contrast. 
 
-The HRSDI technique when applied to MUSE data allows us to reach the photon noise limit at small separations (i.e., <0.5"; see the right plane below). With the combination of high-contrast imaging and medium spectral resolution, MUSE can achieve fainter detection limits in apparent line flux than SPHERE/ZIMPOL by a factor of  5 (see, the left plane below).
+The HRSDI technique when applied to MUSE data allows us to reach the photon noise limit at small separations (i.e., <0.5"; see the right plane below). With the combination of high-contrast imaging and medium spectral resolution, MUSE can achieve fainter detection limits in apparent line flux than SPHERE/ZIMPOL by a factor of 5 (see, the left plane below).
 
 ![muse_paper](/images/research/muse_paper.png)
 

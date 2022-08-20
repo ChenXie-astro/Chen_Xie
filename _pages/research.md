@@ -38,9 +38,9 @@ Follow the links below to jump to the latest results.
 <span style="color:gray"><font size="6">PhD Research (2020-present)</font></span>
 
 Highlights from my PhD projects:
-* I thoroughly studied the performance of reference-star differential imaging (RDI) on VLT/SPHERE. On average, RDI can outperform angular differential imaging (ADI) in detecting point sources at short angular separations (<0.4"), with an average gain of ~0.8 mag at 0.15".
+* I thoroughly studied the performance of reference-star differential imaging (RDI) on VLT/SPHERE. On average, RDI can outperform angular differential imaging (ADI) in detecting point sources at short angular separations (<0.4"), with an average gain of ~0.8 mag at 0.15". In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology.
 
-* The RDI reference library I built can be easily implemented into legacy or future SPHERE observations without additional costs, achieving similar or better performance than that of ADI.
+* The RDI reference library I built can be easily implemented into legacy or future SPHERE observations without additional costs, achieving better performance than that of ADI.
 
 
 # Planet-disk interaction 
@@ -49,8 +49,10 @@ Highlights from my PhD projects:
 Investigating the companion-disk interaction via measuring the dynamical motion of spiral arms in the disk.
 
 
-# Performance of reference-star differential imaging on SPHERE
-(under review) To be completed soon.
+# Reference-star differential imaging on SPHERE
+(Xie, C. et al. 2022; A&A (in press), [arXiv](https://arxiv.org/pdf/2208.07915.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220807915X/abstract))
+
+I characterized the performance of reference-star differential imaging (RDI) on SPHERE/IRDIS data in direct imaging of exoplanets and disks. I made use of all the archival data in H23 obtained by SPHERE/IRDIS in the past five years to build a master reference library and perform RDI. In the point-source detection, RDI can outperform ADI at small angular separations (<0.4") with a gain of ~0.8 mag over ADI at 0.15" separation for observations under median conditions. In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology. We resolve [33 disks]() in total intensity (19 planet-forming disks and 14 debris disks). 
 
 
 # Studying stellar jet in HD 163296 with MUSE 
@@ -106,4 +108,4 @@ To further confirm the spectral steepening, I led the follow-up observations (~1
 
 
 
-> Last updated around May 2022.
+> Last updated around Augest 2022.

@@ -9,6 +9,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Disk gallery"
+    url: /disk_gallery/
 
   - title: "Media"
     url: /media/

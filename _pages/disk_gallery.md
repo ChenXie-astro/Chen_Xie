@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Disk gallery"
+title: "VLT/SPHERE disk gallery"
 permalink: /disk_gallery/
 author_profile: true
 ---

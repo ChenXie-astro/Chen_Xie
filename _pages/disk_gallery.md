@@ -10,3 +10,4 @@ author_profile: true
 
 <img src="/images/disk_gallery/disk_all_SB_paper.png" alt="disk gallery" style="width:600px;"/>
 
+Paper link: [Xie et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220807915X/abstract)

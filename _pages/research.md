@@ -8,8 +8,11 @@ author_profile: true
 ---
 
 Follow the links below to jump to the latest results.
+* [JWST/NIRSpec observation of debris disk](#JWST/NIRSpec-observation-of-debris-disk)
 
-* [Planet-disk interaction](#planet-disk-interaction)
+<!-- * [Disk imaging with IFS using RDI-DIsNMF](#Disk-imaging-with-IFS-using-RDI-DIsNMF) -->
+
+* [First dynamical detection of a companion driving a spiral arm](#first-dynamical-detection-of-a-companion-driving-a-spiral-arm)
 
 
 * [Performance of reference-star differential imaging on SPHERE](#performance-of-reference-star-differential-imaging-on-sphere)
@@ -33,20 +36,37 @@ Follow the links below to jump to the latest results.
 
 <!-- <span style="color:gary">some *blue* text</span>. -->
 
+<span style="color:gray"><font size="6">Postdoc Research (2023-)</font></span>
+
+# JWST/NIRSpec IFU observation of debris disks
+(Ongoing project, check out my talk at the Dust Devils workshop)
 
 
-<span style="color:gray"><font size="6">PhD Research (2020-present)</font></span>
+
+<span style="color:gray"><font size="6">PhD Research (2020-2023)</font></span>
 
 Highlights from my PhD projects:
 * I thoroughly studied the performance of reference-star differential imaging (RDI) on VLT/SPHERE. On average, RDI can outperform angular differential imaging (ADI) in detecting point sources at short angular separations (<0.4"), with an average gain of ~0.8 mag at 0.15". In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology.
 
 * The RDI reference library I built can be easily implemented into legacy or future SPHERE observations without additional costs, achieving better performance than that of ADI.
 
+* The RDI-DIsNMF technique is optimized for the direct imaging of circumstellar disks in total intensity by minimizing self-subtraction and overfitting that has plagued previous methods. As a result, RDI-DIsNMF provides accurate photometry and morphology of the disk. 
 
-# Planet-disk interaction 
+* I provided the first dynamical detection of a companion driving a spiral arm in a protoplanetary disk
 
-(Ongoing project)
-Investigating the companion-disk interaction via measuring the dynamical motion of spiral arms in the disk.
+
+<!-- # Disk imaging with IFS using RDI-DIsNMF
+(Ongoing project) -->
+
+
+# First dynamical detection of a companion driving a spiral arm 
+(Xie, C. et al. 2023; [A&A](https://www.aanda.org/articles/aa/pdf/2023/07/aa46305-23.pdf), [arXiv](https://arxiv.org/pdf/2306.09279.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2023A%26A...675L...1X/abstract))
+
+I reported multi-epoch observations of the binary system HD 100453 using VLT/SPHERE. By effectively removing starlight contamination and recovering the spiral features, I measured the motion of the spirals over a span of 4 yr for dynamical motion analysis. The spiral pattern motion is consistent with the orbital motion of the eccentric companion. This direct observational evidence supports the long-standing theory on the origin of spiral features in protoplanetary disks. With the pattern motion of companion-driven spirals being independent of companion mass, it is feasible to search for hidden spiral-arm-driving planets that are beyond the detection of existing ground-based high-contrast imagers.
+
+The RDI-DIsNMF technique enables the accurate recovery of the disk morphology and facilitates the dynamical analysis of the spiral and companion motions in HD100453. 
+
+![HD100453](/images/research/HD100453.png)
 
 
 # Reference-star differential imaging on SPHERE

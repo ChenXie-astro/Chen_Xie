@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen XIE | Astronomer"
 title_separator          : "-"
 name                     : &name "Chen XIE"
-description              : &description "PhD candidate in Astronomy"
+description              : &description "Postdoctoral Researcher"
 url                      : https://chenxie.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChenXie-astro/Chen_Xie"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Chen Xie"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Astronomy"
-  location         : "LAM, Marseille, France"
+  bio              : "Postdoctoral Researcher"
+  location         : "JHU, Baltimore, MD"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "chen.xie@lam.fr"
+  email            :  "cxie21@jhu.edu"
   researchgate     :  "https://www.researchgate.net/profile/Chen-Xie-10"
   uri              :
   bitbucket        :

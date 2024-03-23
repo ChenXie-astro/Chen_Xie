@@ -128,4 +128,4 @@ To further confirm the spectral steepening, I led the follow-up observations (~1
 
 
 
-> Last updated around Augest 2022.
+> Last updated around March 2024.

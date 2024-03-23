@@ -41,7 +41,7 @@ Follow the links below to jump to the latest results.
 # JWST/NIRSpec IFU observation of debris disks
 (Ongoing project, check out my talk at the Dust Devils workshop)
 
-</br>
+
 
 
 <span style="color:gray"><font size="6">PhD Research (2020-2023)</font></span>
@@ -69,14 +69,14 @@ The RDI-DIsNMF technique enables the accurate recovery of the disk morphology an
 
 ![HD100453](/images/research/HD100453.png)
 
-</br>
+
 
 # Reference-star differential imaging on SPHERE
 (Xie, C. et al. 2022; [A&A](https://www.aanda.org/articles/aa/pdf/forth/aa43379-22.pdf), [arXiv](https://arxiv.org/pdf/2208.07915.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220807915X/abstract))
 
 I characterized the performance of reference-star differential imaging (RDI) on SPHERE/IRDIS data in direct imaging of exoplanets and disks. I made use of all the archival data in H23 obtained by SPHERE/IRDIS in the past five years to build a master reference library and perform RDI. In the point-source detection, RDI can outperform ADI at small angular separations (<0.4") with a gain of ~0.8 mag over ADI at 0.15" separation for observations under median conditions. In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology. We resolved [33 disks](/images/disk_gallery/disk_all_SB_paper.png) in total intensity (19 planet-forming disks and 14 debris disks). 
 
-</br>
+
 
 # Studying stellar jet in HD 163296 with MUSE 
 (Xie, C. et al. 2021; [A&A](https://www.aanda.org/articles/aa/pdf/2021/06/aa40602-21.pdf), [arXiv](https://arxiv.org/pdf/2106.01661.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2021A%26A...650L...6X/abstract))
@@ -88,7 +88,7 @@ One of the science highlights is that we constrain the jet launching region to b
 
 ![stellar_jet](/images/research/SN_v_map_jet_paper.png)
 
-</br>
+
 
 
  <!-- <font size="6">Marster Research (2018-2020)</font> -->
@@ -103,7 +103,7 @@ The HRSDI technique when applied to MUSE data allows us to reach the photon nois
 
 ![muse_paper](/images/research/muse_paper.png)
 
-</br>
+
 
 # Discovery of two new radio halos
 (Xie, C. et al. 2020; [A&A](https://www.aanda.org/articles/aa/pdf/2020/04/aa36953-19.pdf), [arXiv](https://arxiv.org/pdf/2001.04725.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2020A%26A...636A...3X/abstract))
@@ -115,7 +115,7 @@ To further confirm the spectral steepening, I led the follow-up observations (~1
 ![radio_halo](/images/research/radio_halo_paper.png)
 
 
-</br>
+
 
  <!-- <font size="6">Undergraduate Research</font> -->
 <span style="color:gray"><font size="6">Undergraduate Research</font></span>

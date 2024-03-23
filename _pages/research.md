@@ -74,7 +74,7 @@ The RDI-DIsNMF technique enables the accurate recovery of the disk morphology an
 # Reference-star differential imaging on SPHERE
 (Xie, C. et al. 2022; [A&A](https://www.aanda.org/articles/aa/pdf/forth/aa43379-22.pdf), [arXiv](https://arxiv.org/pdf/2208.07915.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220807915X/abstract))
 
-I characterized the performance of reference-star differential imaging (RDI) on SPHERE/IRDIS data in direct imaging of exoplanets and disks. I made use of all the archival data in H23 obtained by SPHERE/IRDIS in the past five years to build a master reference library and perform RDI. In the point-source detection, RDI can outperform ADI at small angular separations (<0.4") with a gain of ~0.8 mag over ADI at 0.15" separation for observations under median conditions. In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology. We resolve [33 disks](/images/disk_gallery/disk_all_SB_paper.png) in total intensity (19 planet-forming disks and 14 debris disks). 
+I characterized the performance of reference-star differential imaging (RDI) on SPHERE/IRDIS data in direct imaging of exoplanets and disks. I made use of all the archival data in H23 obtained by SPHERE/IRDIS in the past five years to build a master reference library and perform RDI. In the point-source detection, RDI can outperform ADI at small angular separations (<0.4") with a gain of ~0.8 mag over ADI at 0.15" separation for observations under median conditions. In disk imaging, RDI can reveal more disk features and provide a more robust recovery of the disk morphology. We resolved [33 disks](/images/disk_gallery/disk_all_SB_paper.png) in total intensity (19 planet-forming disks and 14 debris disks). 
 
 </br>
 

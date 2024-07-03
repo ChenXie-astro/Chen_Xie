@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant research scientist at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU), working with Christine Chen at [STScI](https://www.stsci.edu). At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study debris disks. 
+I am currently an assistant research scientist at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU), working with Christine Chen. At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study debris disks. 
 
 My research focuses on:
 * Using integral-field spectroscopy for the detection and characterization of planets and disks

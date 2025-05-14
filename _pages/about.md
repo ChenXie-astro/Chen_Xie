@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant research scientist at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU). At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study debris disks. 
+I am currently an assistant research scientist at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU). At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study circumstellar disks and planets. 
 
 My research focuses on:
 * Using integral-field spectroscopy for the detection and characterization of planets and disks
@@ -23,4 +23,4 @@ I earned my M.Sc in Astronomy from [Leiden University](https://www.universiteitl
 
 [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-6318-0104&sort=date%20desc%2C%20bibcode%20desc) to my publications.
 
-> Last updated around March 2024.
+> Last updated around May 2025.

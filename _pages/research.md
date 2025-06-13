@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 Follow the links below to jump to the latest results.
-* [JWST/NIRSpec observation of debris disk](#JWST/NIRSpec-observation-of-debris-disk)
+* [Water ice in the debris disk around HD 181327](#Water-ice-in-the-debris-disk-around-HD-181327)
 
 <!-- * [Disk imaging with IFS using RDI-DIsNMF](#Disk-imaging-with-IFS-using-RDI-DIsNMF) -->
 
@@ -38,8 +38,11 @@ Follow the links below to jump to the latest results.
 
 <span style="color:gray"><font size="6">Postdoc Research (2023-present)</font></span>
 
-# JWST/NIRSpec IFU observation of debris disks
-(Ongoing project, check out my talk at the Dust Devils workshop)
+# Water ice in the debris disk around HD 181327
+(Xie et al. 2025; [Nature](https://www.nature.com/articles/s41586-025-08920-4), [arXiv](), [ADS]())
+
+
+![HD181327_spec](/images/research/HD181327_spec.png)
 
 
 

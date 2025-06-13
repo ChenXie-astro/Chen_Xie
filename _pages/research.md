@@ -11,6 +11,7 @@ Follow the links below to jump to the latest results.
 * [Water ice in the debris disk around HD 181327](#Water-ice-in-the-debris-disk-around-HD-181327)
 
 <!-- * [Disk imaging with IFS using RDI-DIsNMF](#Disk-imaging-with-IFS-using-RDI-DIsNMF) -->
+* [Dynamical evidence of spiral-arm-driving and gap-opening protoplanets in two systems](#dynamical-evidence-of-spiral-arm-driving -nd gap-opening-protoplanets-in-two-systems)
 
 * [First dynamical detection of a companion driving a spiral arm](#first-dynamical-detection-of-a-companion-driving-a-spiral-arm)
 
@@ -39,11 +40,13 @@ Follow the links below to jump to the latest results.
 <span style="color:gray"><font size="6">Postdoc Research (2023-present)</font></span>
 
 # Water ice in the debris disk around HD 181327
-(Xie et al. 2025; [Nature](https://www.nature.com/articles/s41586-025-08920-4), [arXiv](), [ADS]())
+(Xie et al. 2025; [Nature](https://www.nature.com/articles/s41586-025-08920-4), [arXiv](https://arxiv.org/abs/2505.08863), [ADS](https://ui.adsabs.harvard.edu/abs/2025Natur.641..608X/abstract))
+Although water ice has been commonly found in Kuiper belt objects and comets in the Solar System, no definitive evidence for water ice in debris disks has been obtained to date. Here I report the discovery of water ice in the HD 181327 debris disk using the near-infrared spectrograph onboard the James Webb Space Telescope. I detected the solid-state broad absorption feature of water ice at 3 µm including a distinct Fresnel peak at 3.1 µm, which is indicative of large, crystalline water-ice particles. Gradients in the water-ice feature as a function of stellocentric distance reveal a dynamic environment in which water ice is destroyed and replenished. I estimated the water-ice mass fractions as ranging from 0.1% at approximately 85 au to 21% at approximately 113 au, indicating the presence of a water-ice reservoir in the HD 181327 disk beyond the snow line. The icy bodies that release water ice in HD 181327 are probably the extra-solar counterparts of water-ice-rich Kuiper belt objects in our Solar System.
+
+![HD181327_spec](/images/research/HD181327_Fig1.pdf)
 
 
-![HD181327_spec](/images/research/HD181327_spec.png)
-
+# Dynamical evidence of spiral-arm-driving and gap-opening protoplanets in two systems
 
 
 

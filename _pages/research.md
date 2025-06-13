@@ -139,7 +139,7 @@ To further confirm the spectral steepening, I led the follow-up observations (~1
 # First confirmation of the AGN activity among GRB host galaxies 
 (Xie, C. et al. 2016; [ApJL](https://iopscience.iop.org/article/10.3847/2041-8205/824/2/L17/pdf), [arXiv](https://arxiv.org/pdf/1606.00140.pdf), [ADS](https://ui.adsabs.harvard.edu/abs/2016ApJ...824L..17X/abstract))
 
-I found a weird GRB host galaxy from the WIST all sky survey. My SED modeling confirmed the nature of the AGN, making the first reported GRB host galayx that contains an AGN. Our work explores an interesting connection that may exist between GRB and AGN activities of the host galaxy, which can help in understanding the host environment of the GRB events and the roles of AGN feedback.
+I found a weird GRB host galaxy from the WISE all sky survey. My SED modeling confirmed the nature of the AGN, making the first reported GRB host galayx that contains an AGN. This work explores an interesting connection that may exist between GRB and AGN activities of the host galaxy, which can help in understanding the host environment of the GRB events and the roles of AGN feedback.
 
 ![GRB_hosts](/images/research/GRB_hosts.png)
  

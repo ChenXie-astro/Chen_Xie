@@ -10,6 +10,7 @@ author_profile: true
 * [Another First: NASA Webb Identifies Frozen Water in Young Star System](https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/), 2025 May 14
 
 <img src="/images/media/STScI-HD181327.JPG" alt="HD 181327" style="width:800px;"/>
+
 Image Credit: NASA, ESA, CSA, STScI, Ralf Crawford (STScI)
 
 <!-- https://astro.xmu.edu.cn/info/1050/2096.htm# -->

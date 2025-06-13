@@ -8,10 +8,10 @@ author_profile: true
 ---
 
 Follow the links below to jump to the latest results.
-* [Water ice in the debris disk around HD 181327](#Water-ice-in-the-debris-disk-around-HD-181327)
+* [Water ice in the debris disk around HD 181327](#water-ice-in-the-debris-disk-around-HD-181327)
 
 <!-- * [Disk imaging with IFS using RDI-DIsNMF](#Disk-imaging-with-IFS-using-RDI-DIsNMF) -->
-* [Dynamical evidence of spiral-arm-driving and gap-opening planetary companions in two systems](#dynamical-evidence-of-spiral-arm-driving -nd gap-opening-planetary-companion-in-two-systems)
+* [Dynamical evidence of spiral-arm-driving and gap-opening planetary companions in two systems](#dynamical-evidence-of-spiral-arm-driving-and-gap-opening-planetary-companion-in-two-systems)
 
 * [First dynamical detection of a companion driving a spiral arm](#first-dynamical-detection-of-a-companion-driving-a-spiral-arm)
 
@@ -57,6 +57,7 @@ Young exoplanets gravitationally interact with their surrounding environments, l
 Not just one but two protoplanetary disks have been found to have dynamically predicted orbits of spiral-arm-driving planetary companions that overlap with the ALMA gap. Based on the polarimetry data obtained with VLT/SPHERE in the SAFFRON survey (PI: B. Ren), I analyzed multi-epoch observations of two double-spiraled protoplanetary disks (SAO 206462 and V1247 Ori) and measured their spiral pattern motions. The pattern motion corresponds to a planetary companion at ~66 au in SAO 206462 and ~118 au in V1247 Ori, assuming a circular orbit. The locations of the predicted planetary companion agree with the gap in the ALMA dust-continuum observations, providing joint support for the hypothesis that a companion drives the scattered-light spirals while carving a millimeter gap..
 
 ![spiral_disks](/images/research/SAO206462_and_V1247Ori.png)
+
 
 
 <span style="color:gray"><font size="6">PhD Research (2020-2023)</font></span>

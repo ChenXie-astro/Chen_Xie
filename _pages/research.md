@@ -49,8 +49,8 @@ Although water ice has been commonly found in Kuiper belt objects and comets in 
 
 
 # Dynamical evidence of spiral-arm-driving and gap-opening planetary companions in two systems
-(SAO 206462; Xie et al. 2025; Invited paper [Universe](https://www.mdpi.com/2218-1997/10/12/465), [arXiv](https://arxiv.org/abs/2412.14402), [ADS](https://ui.adsabs.harvard.edu/abs/2024Univ...10..465X/abstract)
-(V1247 Ori; Ren, Bin; Xie, Chen et al. 2024; [A&A](https://www.aanda.org/articles/aa/pdf/2024/01/aa48114-23.pdf), [arXiv](https://arxiv.org/abs/2310.15430), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...681L...2R/abstract))
+(SAO 206462; Xie et al. 2025; Invited paper [Universe](https://www.mdpi.com/2218-1997/10/12/465), [arXiv](https://arxiv.org/abs/2412.14402), [ADS](https://ui.adsabs.harvard.edu/abs/2024Univ...10..465X/abstract))
+ (V1247 Ori; Ren, Bin; Xie, Chen et al. 2024; [A&A](https://www.aanda.org/articles/aa/pdf/2024/01/aa48114-23.pdf), [arXiv](https://arxiv.org/abs/2310.15430), [ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...681L...2R/abstract))
 
 Young exoplanets gravitationally interact with their surrounding environments, leaving observable signatures on protoplanetary disks. Among these signatures, a pair of nearly symmetric spiral arms can be driven by a giant protoplanet.
 

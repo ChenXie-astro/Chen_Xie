@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 Follow the links below to jump to the latest results.
-* [Water ice in the debris disk around HD 181327](#water-ice-in-the-debris-disk-around-HD-181327)
+* [Water ice in the debris disk around HD 181327](#water-ice-in-the-debris-disk-around-hd-181327)
 
 <!-- * [Disk imaging with IFS using RDI-DIsNMF](#Disk-imaging-with-IFS-using-RDI-DIsNMF) -->
 * [Dynamical evidence of spiral-arm-driving and gap-opening planetary companions in two systems](#dynamical-evidence-of-spiral-arm-driving-and-gap-opening-planetary-companion-in-two-systems)

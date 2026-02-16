@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant research scientist at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU). At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study circumstellar disks and planets. 
+I am currently an [assistant research scientist](https://physics-astronomy.jhu.edu/directory/chen-xie/) at [Johns Hopkins University](https://physics-astronomy.jhu.edu) (JHU). At JHU, I use [JWST](https://webb.nasa.gov) (NIRCam, NIRSpec, and MIRI) to study circumstellar disks and planets. 
 
 My research focuses on:
 * Using integral-field spectroscopy for the detection and characterization of planets and disks
